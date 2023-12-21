@@ -1,25 +1,27 @@
-# KAWHE ALVES DOS SANTOS
+# Kawhe Alves dos Santos
 
 ## Sobre Mim
 
-Olá! Eu sou Kawhe alves dos santos, um(a) Futuro engenhriro civil apaixonado(a) por Engenharia civil e Enganharia de software. Estou constantemente buscando aprender e explorar novas tecnologias e formas de deixar meu dia mais pratico.
+Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por Engenharia Civil e Engenharia de Software. Estou constantemente buscando aprender e explorar novas tecnologias para tornar meu dia mais prático.
 
 ## Habilidades
 
-- javascript
-- react
-- Node
+- JavaScript
+- React
+- Node.js
 
 ## Projetos Destacados
 
-### Projeto privado do meu proprio CRM
+### Projeto Privado do Meu Próprio CRM
 
-### Projeto privado do meu portifolio
+Breve descrição do projeto CRM.
+
+### Projeto Privado do Meu Portfólio
+
+Breve descrição do projeto do portfólio.
 
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=code-Kawhe&show_icons=true&theme=radical)](https://github.com/code-Kawhe)
 
 ## Contato
-
-- Email: contato@kawhealvesdossantos.com.br
