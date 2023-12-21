@@ -22,6 +22,4 @@ Olá! Eu sou Kawhe alves dos santos, um(a) Futuro engenhriro civil apaixonado(a)
 
 ## Contato
 
-- LinkedIn: [Seu LinkedIn](link_do_seu_perfil_no_LinkedIn)
-- Twitter: [Seu Twitter](link_do_seu_perfil_no_Twitter)
-- Email: seu@email.com
+- Email: contato@kawhealvesdossantos.com.br
