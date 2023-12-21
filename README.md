@@ -25,3 +25,5 @@ Breve descrição do projeto do portfólio.
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=code-Kawhe&show_icons=true&theme=radical)](https://github.com/code-Kawhe)
 
 ## Contato
+
+- Email: [contato@kawhealvesdossantos.com.br](mailto:contato@kawhealvesdossantos.com.br)
