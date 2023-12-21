@@ -9,6 +9,7 @@ Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por E
 - JavaScript
 - React
 - Node.js
+- Python
 
 ## Projetos Destacados
 
