@@ -2,25 +2,19 @@
 
 ## Sobre Mim
 
-Olá! Eu sou [Seu Nome], um(a) [sua profissão ou estudante] apaixonado(a) por [suas principais áreas de interesse]. Estou constantemente buscando aprender e explorar novas tecnologias.
+Olá! Eu sou Kawhe alves dos santos, um(a) Futuro engenhriro civil apaixonado(a) por Engenharia civil e Enganharia de software. Estou constantemente buscando aprender e explorar novas tecnologias e formas de deixar meu dia mais pratico.
 
 ## Habilidades
 
-- Linguagem 1
-- Linguagem 2
-- Ferramenta 1
-- Ferramenta 2
-- ...
+- javascript
+- react
+- Node
 
 ## Projetos Destacados
 
-### [Nome do Projeto 1](link_do_projeto_1)
+### Projeto privado do meu proprio CRM
 
-Breve descrição do projeto 1.
-
-### [Nome do Projeto 2](link_do_projeto_2)
-
-Breve descrição do projeto 2.
+### Projeto privado do meu portifolio
 
 ## Estatísticas do GitHub
 
