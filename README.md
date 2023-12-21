@@ -14,11 +14,7 @@ Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por E
 
 ### Projeto Privado do Meu Próprio CRM
 
-Breve descrição do projeto CRM.
-
-### Projeto Privado do Meu Portfólio
-
-Breve descrição do projeto do portfólio.
+### [Projeto Privado do Meu Portfólio](https://kawhealvesdossantos.com.br)
 
 ## Estatísticas do GitHub
 
