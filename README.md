@@ -1,4 +1,4 @@
-# Seu Nome
+# KAWHE ALVES DOS SANTOS
 
 ## Sobre Mim
 
@@ -18,7 +18,7 @@ Olá! Eu sou Kawhe alves dos santos, um(a) Futuro engenhriro civil apaixonado(a)
 
 ## Estatísticas do GitHub
 
-[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seu_nome_de_usuario&show_icons=true&theme=radical)](link_do_seu_perfil_no_github)
+[![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=code-Kawhe&show_icons=true&theme=radical)](https://github.com/code-Kawhe)
 
 ## Contato
 
