@@ -17,6 +17,8 @@ Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por E
 
 ### [Projeto Privado do Meu Portfólio](https://kawhealvesdossantos.com.br)
 
+### CLIKER GAME
+
 ## Estatísticas do GitHub
 
 [![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=code-Kawhe&show_icons=true&theme=radical)](https://github.com/code-Kawhe)
