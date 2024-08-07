@@ -19,8 +19,6 @@ Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por E
 
 ### CLIKER GAME
 
-### [CT. CONTRLE DE TRAFEGO](https://github.com/code-Kawhe/CT-CONTROLE-DE-TRAFEGO.git)
-
 ### [AUTOMACOES PYTHON](https://github.com/code-Kawhe/Automa--es-pyton.git)
 
 ## Estatísticas do GitHub
