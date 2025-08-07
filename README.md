@@ -13,7 +13,7 @@ Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por E
 
 ## Projetos Destacados
 
-#[opa](#SobreMim)
+
 
 ### Projeto Privado do Meu Próprio CRM
 
