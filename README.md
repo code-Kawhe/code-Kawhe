@@ -11,6 +11,8 @@ Olá! Eu sou Kawhe Alves dos Santos, um futuro engenheiro civil apaixonado por E
 - Node.js
 - Python
 
+- [x] opa
+
 ## Projetos Destacados
 
 ### Projeto Privado do Meu Próprio CRM
